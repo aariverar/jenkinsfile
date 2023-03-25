@@ -8,6 +8,7 @@ pipeline {
                     def tagMap = [
                 'CP001-Validar los nombres de los 10 owners': '@TEST_XRAY-6',
                 'CP002-Editar del primer Owner de la lista, validar el cambio y hacer rollback.': '@TEST_XRAY-19',
+                'CP003-Validar el ingreso correcto a cada menu': '@TEST_XRAY-48',
                 'Regresión Automatizada': '@XRAY-21'
             ]
 
